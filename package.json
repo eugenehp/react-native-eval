@@ -13,7 +13,7 @@
   "main": "RNMEvaluator.js",
   "author": "Artem Yarulin <artem.yarulin@fessguid.com>",
   "peerDependencies": {
-    "react-native": "^0.25.0"
+    "react-native": "^0.25.1"
   },
   "keywords": [
     "react-native",
