@@ -11,5 +11,4 @@ Pod::Spec.new do |s|
   s.source_files   = ["react-native-eval/RNMEvaluator.{h,m}"]
   s.public_header_files = "react-native-eval/RNMEvaluator.h"
   s.requires_arc  = true
-  s.dependency "React"
 end
